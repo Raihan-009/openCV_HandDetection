@@ -6,6 +6,6 @@ Hand detection with mediapipe based on openCV python
 pip install opencv-python
 ```
 ```
-pip install mediapipe
+<code>pip install mediapipe</code>
 ```
 <code> pip install time </code>
