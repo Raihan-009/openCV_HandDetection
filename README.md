@@ -8,3 +8,4 @@ pip install opencv-python
 ```
 pip install mediapipe
 ```
+<code> pip install time </code>
