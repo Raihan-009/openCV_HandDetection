@@ -19,10 +19,10 @@ Project Hand Tracking
 ```python
 import cv2
 import mediapipe
-import htm
+import handTracker as ht
 
 cap = cv2.VideoCapture(0)
-tracker = htm.handDetector()
+tracker = ht.handDetector()
 
 while True:
     ret, frame = cap.read()
