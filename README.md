@@ -12,7 +12,7 @@ Hand detection projects with mediapipe based on openCV python.
 -----------------------------------
 Mediapipe
 -----------------------------------
-
+<p> MediaPipe Hands is a high-fidelity hand and finger tracking solution. It employs machine learning (ML) to infer 21 3D landmarks of a hand from just a single frame. </p>
 <p align = "center">
     <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/hand_landmarks.png">
 </p>
