@@ -14,7 +14,10 @@ Project Hand Tracking
 -----------------------------------
 
 <p align = "center">
-    <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/handtracking.png" width = "450" height = "350">
+    <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/handTracking01.png" width = "450" height = "350">
+</p>
+<p align = "center">
+    <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/handTracking02.png" width = "450" height = "350">
 </p>
 
 ```python
@@ -44,10 +47,10 @@ Project Finger Counting
 -----------------------------------
 
 <p align = "center">
-    <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/fingercounting0.png" width = "450" height = "350">
+    <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/fingerCounting01.png" width = "450" height = "350">
 </p>
 <p align = "center">
-    <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/fingercounting5.png" width = "450" height = "350">
+    <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/fingerCounting02.png" width = "450" height = "350">
 </p>
 
 ```python
