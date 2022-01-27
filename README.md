@@ -8,6 +8,13 @@ Hand detection projects with mediapipe based on openCV python.
 <code>pip install opencv-python</code>
 
 <code>pip install mediapipe</code>
+-----------------------------------
+Mediapipe
+-----------------------------------
+
+<p align = "center">
+    <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/hand_landmarks.png">
+</p>
 
 -----------------------------------
 Project Hand Tracking
