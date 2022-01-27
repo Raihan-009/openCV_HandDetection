@@ -1,4 +1,3 @@
-from re import L
 import cv2
 import mediapipe as mp
 
