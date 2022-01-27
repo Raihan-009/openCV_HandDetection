@@ -14,7 +14,7 @@ Project Hand Tracking
 -----------------------------------
 
 <p align = "center">
-    <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/handTracking01.png" width = "450" height = "350">
+    <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/handTracking01.png">
 </p>
 <p align = "center">
     <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/handTracking02.png" width = "450" height = "350">
