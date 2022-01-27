@@ -40,6 +40,9 @@ cv2.destroyAllWindows()
 -----------------------------------
 Project Finger Counting
 -----------------------------------
+
+![Demo finger counting 0](https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/fingercounting0.png)
+![Demo finger counting 5](https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/fingercounting5.png)
 ```python
 import cv2
 import mediapipe
