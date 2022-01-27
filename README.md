@@ -12,6 +12,7 @@ Hand detection projects with mediapipe based on openCV python.
 -----------------------------------
 Project Hand Tracking
 -----------------------------------
+
 <p align = "center">
     <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/handtracking.png" width = "450" height = "350">
 </p>
@@ -41,6 +42,7 @@ cv2.destroyAllWindows()
 -----------------------------------
 Project Finger Counting
 -----------------------------------
+
 <p align = "center">
     <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/fingercounting0.png" width = "450" height = "350">
 </p>
