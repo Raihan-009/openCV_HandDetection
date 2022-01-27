@@ -12,8 +12,8 @@ Hand detection projects with mediapipe based on openCV python.
 -----------------------------------
 Project Hand Tracking
 -----------------------------------
-![Hand Tracking](https://drive.google.com/file/d/1xmTfzJQXtShpFspCmNGURYPowTIu-4Tb/view?usp=sharing)
-'''python
+
+```python
 import cv2
 import mediapipe
 import htm
@@ -34,4 +34,4 @@ while True:
         break
 cap.release()
 cv2.destroyAllWindows()
-'''
+```
