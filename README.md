@@ -8,6 +8,7 @@ Hand detection projects with mediapipe based on openCV python.
 <code>pip install opencv-python</code>
 
 <code>pip install mediapipe</code>
+
 -----------------------------------
 Mediapipe
 -----------------------------------
