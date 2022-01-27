@@ -1,6 +1,5 @@
 from re import L
 import cv2
-from cv2 import calcCovarMatrix
 import mediapipe as mp
 
 
