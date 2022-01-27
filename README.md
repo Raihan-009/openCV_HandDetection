@@ -47,6 +47,7 @@ Project Finger Counting
 <p align = "center">
     <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/fingercounting5.png" width = "450" height = "350">
 </p>
+
 ```python
 import cv2
 import mediapipe
