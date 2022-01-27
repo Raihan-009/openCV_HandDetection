@@ -51,11 +51,11 @@ Project Finger Counting
 ```python
 import cv2
 import mediapipe
-import htm
+import handTracker as ht
 
 cap = cv2.VideoCapture(0)
 
-tracker = htm.handDetector()
+tracker = ht.handDetector()
 while True:
     ret, frame = cap.read()
     cv2.rectangle(frame, (10,10), (250,30), (255,255,255), cv2.FILLED)
@@ -86,3 +86,4 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
+
