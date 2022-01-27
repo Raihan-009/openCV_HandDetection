@@ -12,8 +12,9 @@ Hand detection projects with mediapipe based on openCV python.
 -----------------------------------
 Project Hand Tracking
 -----------------------------------
-
-![Demo Hand Tracking](https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/handtracking.png)
+<p align = "center">
+    <img src = "https://github.com/Raihan-009/openCV_HandDetection/blob/main/results/handtracking.png" width = "250" height = "250">
+</p>
 
 ```python
 import cv2
